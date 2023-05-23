@@ -3,7 +3,7 @@ Sorts mobile numbers by header information into operators
 
 
 *UPDATE:*
-Currently in the process of porting this project to nodejs and updating with simple web UI to allow
+Currently in the process of porting this project to a nodejs and mongodb base. Will now also include a simple web UI to allow:
 - use a set of APIs to achieve functions.
 - uploading CSV files containing MSISDNs and outputting a processed CSV file containing the categorized numbers.
 - entering a single number and getting the corresponding operator.
